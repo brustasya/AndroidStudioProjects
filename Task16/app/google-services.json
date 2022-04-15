@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681829397950",
+    "project_id": "task16-339d9",
+    "storage_bucket": "task16-339d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681829397950:android:99d4fb6ba4a53cac9a35ef",
+        "android_client_info": {
+          "package_name": "whiteroomlz.com.task16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681829397950-ucrimji3ishj9gjq3f8kftpfb6204qk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAox0Hj3Wo6TtmJrV4tvtH30SCijLKRfyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681829397950-ucrimji3ishj9gjq3f8kftpfb6204qk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

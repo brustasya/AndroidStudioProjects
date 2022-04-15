@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="infoMenuItem">О программе</string>
+    <string name="buttonText">Take a Shot!</string>
+    <string name="takepictureButtonText">Take picture</string>
+</resources>

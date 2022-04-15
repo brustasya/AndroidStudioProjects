@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task_10</string>
+    <string name="authorName">Бобрускина Станислава Алексеевна, БПИ207</string>
+    <string name="buttonString">Выйти</string>
+    <string name="alertMessage">Вы действительно хотите выйти?</string>
+    <string name="infoMenuItem">О программе</string>
+</resources>
